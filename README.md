@@ -31,8 +31,9 @@ Clone or download the repository.
 
 Run the script:
 
+```bash
 python soyjak.py
-
+```
 
 Enter a command from the following list to perform various OSINT operations.
 
